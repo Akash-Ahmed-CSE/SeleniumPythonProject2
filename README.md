@@ -14,5 +14,5 @@ The Selenium project, crafted using the pytest architecture in Python, integrate
 ## Getting Started
 1. Clone the repository
    ```bash
-   git clone https://github.com/Akash-Ahmed-CSE/selenium-pytest-project.git
-   cd selenium-pytest-project
+   git clone https://github.com/Akash-Ahmed-CSE/SeleniumPythonProject2.git
+   cd SeleniumPythonProject2
